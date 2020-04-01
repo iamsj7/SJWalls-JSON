@@ -1,2 +1,122 @@
 [
+	{
+		"name": "OnePlus7-1",
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/ONEPLUS/OP7_01.jpg",
+		"dimensions": "1448x3120",
+		"collections": "oneplus",
+		"downloadable": false
+	},
+	{
+		"name": "OnePlus7-1-NS",
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/ONEPLUS/OP7_01_ns.jpg",
+		"dimensions": "1448x3120",
+		"collections": "oneplus",
+		"downloadable": false
+	},
+	{
+		"name": "OnePlus7-1-4K",
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/ONEPLUS/OP7_01_4k.jpg",
+		"dimensions": "2160x4654",
+		"collections": "oneplus",
+		"downloadable": false
+	},
+	{
+		"name": "OnePlus7-2",
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/ONEPLUS/OP7_02.jpg",
+		"dimensions": "1448x3120",
+		"collections": "oneplus",
+		"downloadable": false
+	},
+	{
+		"name": "OnePlus7-2-NS",
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/ONEPLUS/OP7_02_ns.jpg",
+		"dimensions": "1448x3120",
+		"collections": "oneplus",
+		"downloadable": false
+	},
+	{
+		"name": "OnePlus7-2-4K",
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/ONEPLUS/OP7_02_4k.jpg",
+		"dimensions": "2160x4654",
+		"collections": "oneplus",
+		"downloadable": false
+	},
+		{
+		"name": "OnePlus7-3",
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/ONEPLUS/OP7_03.jpg",
+		"dimensions": "1448x3120",
+		"collections": "oneplus",
+		"downloadable": false
+	},
+	{
+		"name": "OnePlus7-3-NS",
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/ONEPLUS/OP7_03_ns.jpg",
+		"dimensions": "1448x3120",
+		"collections": "oneplus",
+		"downloadable": false
+	},
+	{
+		"name": "OnePlus7-3-4K",
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/ONEPLUS/OP7_03_4k.jpg",
+		"dimensions": "2160x4654",
+		"collections": "oneplus",
+		"downloadable": false
+	},
+	{
+		"name": "OnePlus7-4",
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/ONEPLUS/OP7_04.jpg",
+		"dimensions": "1448x3120",
+		"collections": "oneplus",
+		"downloadable": false
+	},
+	{
+		"name": "OnePlus7-4-NS",
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/ONEPLUS/OP7_04_ns.jpg",
+		"dimensions": "1448x3120",
+		"collections": "oneplus",
+		"downloadable": false
+	},
+	{
+		"name": "OnePlus7-4-4K",
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/ONEPLUS/OP7_04_4k.jpg",
+		"dimensions": "2160x4654",
+		"collections": "oneplus",
+		"downloadable": false
+	},
+	{
+		"name": "OnePlus7-5",
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/ONEPLUS/OP7_05.jpg",
+		"dimensions": "1448x3120",
+		"collections": "oneplus",
+		"downloadable": false
+	},
+	{
+		"name": "OnePlus7-5-NS",
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/ONEPLUS/OP7_05_ns.jpg",
+		"dimensions": "1448x3120",
+		"collections": "oneplus",
+		"downloadable": false
+	},
+	{
+		"name": "OnePlus7-5-4K",
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/ONEPLUS/OP7_05_4k.jpg",
+		"dimensions": "2160x4654",
+		"collections": "oneplus",
+		"downloadable": false
+	}
 ]
