@@ -1,4 +1,68 @@
 [
+    {
+		"name": "Black Amoled",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/Black/black.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Black",
+		"downloadable": false
+	},
+		{
+		"name": "Black Amoled 2",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/Black/black2.jpg",
+		"dimensions": "720x1280",
+		"collections": "Amoled,Black",
+		"downloadable": false
+	},
+		{
+		"name": "Black Amoled 3",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/Black/black3.png",
+		"dimensions": "1152x2048",
+		"collections": "Amoled,Black",
+		"downloadable": false
+	},
+		{
+		"name": "Black Amoled 4",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/Black/black4.png",
+		"dimensions": "2048x1820",
+		"collections": "Amoled,Black",
+		"downloadable": false
+	},
+		{
+		"name": "Black Amoled 5",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/Black/black5.jpg",
+		"dimensions": "2048x1820",
+		"collections": "Amoled,Black",
+		"downloadable": false
+	},
+		{
+		"name": "Black Amoled 6",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/Black/black6.jpg",
+		"dimensions": "877x1280",
+		"collections": "Amoled,Black",
+		"downloadable": false
+	},
+		{
+		"name": "Darth Vader",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/Black/darth-vader.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Black",
+		"downloadable": false
+	},
+		{
+		"name": "Darth Vader 2",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/Black/darth-vader-2.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Black",
+		"downloadable": false
+	},
 	{
 		"name": "OnePlus7-1",
 		"author": "Hampus Olsson",
