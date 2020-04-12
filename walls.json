@@ -1,5 +1,141 @@
 [
 	{
+		"name": "Abstract",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/abstract.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Lines",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/abstract1.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Lines",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/abstract2.png",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Lines",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/abstract3.png",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Lines",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/abstract4.png",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Lines",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/abstract5.png",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Lines",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/abstract6.png",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Lines",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/abstract7.png",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Yellow",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/abstract8.png",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Rainbow",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/abstract9.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Strips",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/abstract10.png",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Strips",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/abstract11.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Strips",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/abstract12.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Amoled Cosmos",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/cosmos.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Amoled Apple",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/amoled-apple1.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Amoled Apple",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/amoled-apple2.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Amoled Apple",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/amoled-apple3.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Abstract",
+		"downloadable": false
+	},
+	{
 		"name": "Amoled Flower",
 		"author": "Unknown",
 		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/flower1.jpg",
@@ -127,6 +263,14 @@
 		"collections": "Amoled,Flowers",
 		"downloadable": false
 	},
+	{
+		"name": "Amoled Flower",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/flower17.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Flowers",
+		"downloadable": false
+	},
         {
 		"name": "Amoled Bridge",
 		"author": "Unknown",
@@ -159,7 +303,111 @@
 		"collections": "Amoled",
 		"downloadable": false
 	},
-        {
+	{
+		"name": "Ferris Wheel",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/wheel2.jpg",
+		"dimensions": "2484X2484",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "SKY",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/mountain1.jpg",
+		"dimensions": "2484X2484",
+		"collections": "Amoled,Sky",
+		"downloadable": false
+	},
+	{
+		"name": "SKY",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/mountain2.png",
+		"dimensions": "2484X2484",
+		"collections": "Amoled,Sky",
+		"downloadable": false
+	},
+	{
+		"name": "SKY",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/mountain3.png",
+		"dimensions": "2484X2484",
+		"collections": "Amoled,Sky",
+		"downloadable": false
+	},
+	{
+		"name": "SKY",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/winter.jpg",
+		"dimensions": "2484X2484",
+		"collections": "Amoled,Sky",
+		"downloadable": false
+	},
+	{
+		"name": "Ocean",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/water1.jpg",
+		"dimensions": "2484X2484",
+		"collections": "Amoled,Oceans",
+		"downloadable": false
+	},
+	{
+		"name": "Ocean",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/water2.jpg",
+		"dimensions": "2484X2484",
+		"collections": "Amoled,Oceans",
+		"downloadable": false
+	},
+	{
+		"name": "AMOLED Lion",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/lionamoled.jpg",
+		"dimensions": "2484X2484",
+		"collections": "Amoled,Animals",
+		"downloadable": false
+	},
+	{
+		"name": "AMOLED Leopard",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/leopard.jpg",
+		"dimensions": "2484X2484",
+		"collections": "Amoled,Animals",
+		"downloadable": false
+	},
+	{
+		"name": "AMOLED Wolf",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/wolf1.jpg",
+		"dimensions": "2484X2484",
+		"collections": "Amoled,Animals",
+		"downloadable": false
+	},
+	{
+		"name": "AMOLED Wolf",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/wolf2.png",
+		"dimensions": "2484X2484",
+		"collections": "Amoled,Animals",
+		"downloadable": false
+	},
+	{
+		"name": "AMOLED Wolf",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/wolf3.png",
+		"dimensions": "2484X2484",
+		"collections": "Amoled,Animals",
+		"downloadable": false
+	},
+	{
+		"name": "Almost Black",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/almostblack.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,Black",
+		"downloadable": false
+	},	
+    {
 		"name": "Black Amoled",
 		"author": "Unknown",
 		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/Black/black.jpg",
