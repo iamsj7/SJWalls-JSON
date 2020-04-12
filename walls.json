@@ -1,5 +1,37 @@
 [
     {
+		"name": "Amoled Bridge",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/bridge_blue.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled,City",
+		"downloadable": false
+	},
+	    {
+		"name": "Amoled Bridge Night",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/bridge_night.jpg",
+		"dimensions": "1440x2560",
+		"collections": "Amoled,City",
+		"downloadable": false
+	},
+	    {
+		"name": "Station Amoled",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/station_pink.jpg",
+		"dimensions": "1152x2048",
+		"collections": "Amoled,City",
+		"downloadable": false
+	},
+	    {
+		"name": "Ferris Wheel",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/wheel.jpg",
+		"dimensions": "2484X2484",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+    {
 		"name": "Black Amoled",
 		"author": "Unknown",
 		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/Black/black.jpg",
