@@ -1,5 +1,253 @@
 [
 	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash1.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash2.jpg",
+		"dimensions": "1242x2208",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash3.jpg",
+		"dimensions": "1440x1280",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash4.png",
+		"dimensions": "1080x1920",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash5.jpg",
+		"dimensions": "1242x2208",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash6.png",
+		"dimensions": "1080x1920",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash7.jpg",
+		"dimensions": "1242x2208",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash8.jpg",
+		"dimensions": "1242x2208",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash9.jpg",
+		"dimensions": "1242x2208",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash10.jpg",
+		"dimensions": "1242x2208",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash11.jpg",
+		"dimensions": "1242x2208",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash12.jpg",
+		"dimensions": "1242x2208",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash13.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash14.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash15.jpg",
+		"dimensions": "1242x2208",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash16.jpg",
+		"dimensions": "1242x2208",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash17.jpg",
+		"dimensions": "1242x2208",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash18.jpg",
+		"dimensions": "1242x2208",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash19.jpg",
+		"dimensions": "1242x2208",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash20.jpg",
+		"dimensions": "1242x2208",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash21.jpg",
+		"dimensions": "1242x2208",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash22.jpg",
+		"dimensions": "1242x2208",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash23.png",
+		"dimensions": "1080x1920",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash24.png",
+		"dimensions": "1080x1920",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash25.png",
+		"dimensions": "1080x1920",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash26.png",
+		"dimensions": "1080x1920",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash27.png",
+		"dimensions": "1080x1920",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash28.png",
+		"dimensions": "1080x1920",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash29.jpg",
+		"dimensions": "1242x2208",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash30.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
+		"name": "Splash",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/splash31.jpg",
+		"dimensions": "1080x1920",
+		"collections": "Amoled",
+		"downloadable": false
+	},
+	{
 		"name": "Amoled Fish",
 		"author": "Unknown",
 		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/fish1.png",
